@@ -36,7 +36,8 @@ Not affiliated with RootsMagic, Inc.
 
 ## Availability
 
-[Rootfold on Google Play](https://play.google.com/store/apps/details?id=com.growingpeas.rmview&referrer=utm_source%3Dgithub%26utm_campaign%3Drootfold-about), Android 8 and later. Privacy policy:
+[Rootfold on Google Play](https://play.google.com/store/apps/details?id=com.growingpeas.rmview&referrer=utm_source%3Dgithub%26utm_campaign%3Drootfold-about), Android 8 and later. Product page:
+[growingpeas.dev/rootfold](https://growingpeas.dev/rootfold/?utm_source=github&utm_campaign=rootfold-about). Privacy policy:
 [growingpeas.dev/rootfold/privacy](https://growingpeas.dev/rootfold/privacy).
 
 I build Rootfold on my own. Questions or ideas: info@growingpeas.dev.
